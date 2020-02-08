@@ -24,5 +24,6 @@ class Dog
   end
 end
 
-Beagle = 
+Beagle = Dog.new
+Beagle.breed = "Beagle"
 
