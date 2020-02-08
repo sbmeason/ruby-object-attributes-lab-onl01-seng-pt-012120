@@ -8,4 +8,4 @@ class Person
   end
 end
 
-name = Person.new
+beyonce = Person.new
