@@ -4,3 +4,8 @@ class Person
   end
   
   def person
+    @person
+  end
+end
+
+name = Person.new
